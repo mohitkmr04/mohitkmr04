@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a **Software Engineer at Sanmina**, where I design and
 ---
 
 ### 🤝 Let's Connect!
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/mohitkmr04](https://www.linkedin.com/in/mohit-kumar-2b06981a1/))
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/mohit-kumar-2b06981a1/))
 - 📫 Email: kmrmohit04@gmail.com
 
 ---
